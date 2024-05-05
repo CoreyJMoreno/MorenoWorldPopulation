@@ -1,5 +1,5 @@
 Package: MorenoWorldPopulation
-Title: What the Package Does (One Line, Title Case)
+Title: World Cup and Population
 Version: 0.0.0.9000
 Authors@R: 
     person("Corey", "Moreno", , "cjm758@nau.edu", role = c("aut", "cre"),
