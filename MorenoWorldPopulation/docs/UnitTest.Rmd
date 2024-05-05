@@ -1,0 +1,10 @@
+```{r}
+library(MorenoWorldPopulation)
+library(tidyverse)
+
+
+test1 <- CountryPopulation('Italy')
+test2 <- CountryPopulation('Italyyyyy')
+test1
+test2
+```
